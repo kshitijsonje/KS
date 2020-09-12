@@ -1,2 +1,6 @@
 # KS
 This is my first project to do on internet ...
+
+I'm new to the this type of coding and I just lrarn to coding ..
+
+This is first project of hello world on github by me ....
